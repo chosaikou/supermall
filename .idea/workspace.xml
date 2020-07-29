@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dee14724-c19f-4cb0-9649-1d8cb1211fdf" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="bd5a4182-7de3-4996-a3be-631fcf763e4e" />
+  </component>
+  <component name="ProjectId" id="1fJAxLwUI6Wio0gAgj3qNiAubfX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dee14724-c19f-4cb0-9649-1d8cb1211fdf" name="默认的" comment="" />
+      <created>1595926066872</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595926066872</updated>
+      <workItem from="1595926069057" duration="280000" />
+      <workItem from="1595926386748" duration="6416000" />
+      <workItem from="1595984753764" duration="136000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1595984780903">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1595984780903" />
+    <state x="650" y="185" width="620" height="259" key="Github.ShareDialog" timestamp="1595984825893">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="650" y="185" width="620" height="259" key="Github.ShareDialog/0.0.1366.738@0.0.1366.738" timestamp="1595984825893" />
+    <state x="485" y="69" key="RollbackChangesDialog" timestamp="1595983611347">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="485" y="69" key="RollbackChangesDialog/0.0.1366.738@0.0.1366.738" timestamp="1595983611347" />
+    <state x="131" y="0" key="SettingsEditor" timestamp="1595984889806">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="131" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1595984889806" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1595930542051">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1595930542051" />
+    <state x="500" y="102" key="VcsDiffUtil.ChangesDialog" timestamp="1595930860376">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="500" y="102" key="VcsDiffUtil.ChangesDialog/0.0.1366.738@0.0.1366.738" timestamp="1595930860376" />
+    <state x="480" y="267" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1595983635266">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="480" y="267" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1366.738@0.0.1366.738" timestamp="1595983635266" />
+    <state x="506" y="262" key="git4idea.ui.GitResetDialog" timestamp="1595930285336">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="506" y="262" key="git4idea.ui.GitResetDialog/0.0.1366.738@0.0.1366.738" timestamp="1595930285336" />
+    <state x="445" y="156" key="git4idea.ui.GitUnstashDialog" timestamp="1595930319439">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="445" y="156" key="git4idea.ui.GitUnstashDialog/0.0.1366.738@0.0.1366.738" timestamp="1595930319439" />
+  </component>
+</project>
